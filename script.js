@@ -4,9 +4,9 @@
 const CONFIG = {
   firmName: "Nirmaan Advisors",
   auditorName: "Arvind Kulkarni",
-  phone: "+91 8095001416",
-  whatsapp: "918095001416", // digits only, country code first
-  email: "manishp3410@gmail.com",
+  phone: "+91 9900579077",
+  whatsapp: "919900579077", // digits only, country code first
+  email: "ramtaxtechsolutions@gmail.com",
   officeAddress: "2nd Floor, Vidyanagar, Hubballi, Karnataka",
 };
 
