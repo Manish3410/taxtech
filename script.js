@@ -1,6 +1,4 @@
-/* ============================================================
-   CENTRAL CONTENT CONFIG — replace placeholders with real data
-   ============================================================ */
+
 const CONFIG = {
   firmName: "Nirmaan Advisors",
   auditorName: "Arvind Kulkarni",
@@ -608,12 +606,12 @@ document.getElementById('yearNow').textContent = new Date().getFullYear();
 ========================================= */
 
 const officeImages = [
-  "assets/reception.jpeg",
-  "assets/work.jpeg",
-  "assets/consultation.jpeg",
-  "assets/front.jpeg",
-  "assets/meeting.jpeg",
-  "assets/private.jpeg"
+  "Assets/reception.jpeg",
+  "Assets/work.jpeg",
+  "Assets/consultation.jpeg",
+  "Assets/front.jpeg",
+  "Assets/meeting.jpeg",
+  "Assets/private.jpeg"
 ];
 
 let currentOfficeImage = 0;
